@@ -21,7 +21,7 @@ To run the Config server application locally, follow these steps:
 5. Access the Config server dashboard in your web browser:
    http://localhost:8191/
 
-## Congiguration
+## Configuration
 
 The Config server application can be configured using application properties.
 ~`server.port`: The port number on which the Config server listens for incoming requests.
