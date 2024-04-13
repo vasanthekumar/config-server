@@ -4,7 +4,7 @@ The Spring boot Config Server is a centralized configuration server that manages
 Setup
 ## Prerequisites
 - Java 17 or higher
-- Maven 5.7.43
+- Maven 3.9.4
 
 ## Running the Application
 
